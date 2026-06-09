@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving gif">
 </h1>
 
-<h3 align="center">Year 2 student at Temasek Junior College</h3>
+<h3 align="center">Serving the Nation</h3>
 
 <p align="center">
     I enjoy tackling challenging problems and constantly seek opportunities to learn from others. In my free time, I create web applications, aspiring to be able to build any application I envision from scratch.
