@@ -14,4 +14,4 @@
 <h3>Website: <a href="https://tanziyan.com" target="_blank" rel="noopener noreferrer">tanziyan.com</a></h3>
 <br>
 
-![Skills](./skills.png)
+![Skills](./skill.png)
